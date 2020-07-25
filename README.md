@@ -3,8 +3,7 @@
 😄 Meu nome é Matheus Santos, tenho 21 anos, sou pai da Manuela, marido da Milena e filho da Dona Graça e do Seu Delio, sou o 2º filho de 5.
 
 Sou estudante de desenvolvimento a 2 anos, ainda não trabalho na área, mas se você estiver lendo esse readme quem sabe pode me dar uma oportunidade.
-
-Sinta se a vontade para deixar o seu feedback ou o seu elogio.
+Atualmente focado na stack em torno do JavaScript e TypeScript, mais precisamente NodeJS, ReactJs e React Native.
 
 Se quiser entrar em conatto comigo, aqui estão as minhas redes:
 - [Linkedin](https://www.linkedin.com/in/matheus-santos-moreira/)

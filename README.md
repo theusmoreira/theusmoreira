@@ -1,29 +1,22 @@
-### Hi, guys 👋
+### Hi there, I'm Matheus Santos 👋
 
-😄 Meu nome é Matheus Santos, tenho 21 anos, sou pai da Manuela, marido da Milena e filho da Dona Graça e do Seu Delio, sou o 2º filho de 5.
+## I'm a Husband, Father and Developer!
+- 🔭 I’m currently working as a clerk in a bakery, but I am looking for a job as a dev.
+- 🌱 I’m currently learning everything, but focused on TypeScript, NodeJS, ReactJS and React Native. 🤣
+- 🥅 2020 Goals: Improve my programming skills and my English level.
 
-Sou estudante de desenvolvimento a 2 anos, ainda não trabalho na área, mas se você estiver lendo esse readme quem sabe pode me dar uma oportunidade.
-Atualmente focado na stack em torno do JavaScript e TypeScript, mais precisamente NodeJS, ReactJs e React Native. Sou estudante do bootcamp GoStack - 12 da Rocketseat.
-
-Se quiser entrar em conatto comigo, aqui estão as minhas redes:
-- [Linkedin](https://www.linkedin.com/in/matheus-santos-moreira/)
-- [E-mail](mailto:matheussm301@gmail.com)
-- [Website](https://matheussantosdev.com) (Ainda em construção)
-
-
+### Connect with me:
+​
+[<img align="left" alt="Matheus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/matheus-santos-moreira) 
+[<img align="left" alt="Matheus | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/matheus.s.moreira/)
 
 
-<!--
-**matheus-santos-moreira/matheus-santos-moreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+[![Matheus github stats](https://github-readme-stats.vercel.app/api?username=matheus-santos-moreira&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Most Used Languages in repositories:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-santos-moreira&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+

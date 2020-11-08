@@ -3,7 +3,6 @@
 ## I'm a Husband, Father and Developer!
 - 🔭 I’m currently working as a clerk in a bakery, but I am looking for a job as a dev.
 - 🌱 I’m currently learning everything, but focused on TypeScript, NodeJS, ReactJS and React Native. 🤣
-- 🥅 2020 Goals: Improve my programming skills and my English level.
 
 ### Connect with me:
 ​

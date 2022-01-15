@@ -2,7 +2,7 @@
 
 
 ## I'm a Husband, Father and Developer!
-- 🔭 I’m currently working as a Web Developer at Chat2Desk Brazil.
+- 🔭 I’m currently working as a Back-end Developer at Chat2Desk Brazil.
 - 🌱 I’m currently learning everything, but focused on TypeScript, NodeJS, ReactJS and React Native. 🤣
 
 ### Connect with me:

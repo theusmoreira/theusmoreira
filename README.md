@@ -1,12 +1,10 @@
-# Essa é a minha historia
+# Quem sou eu
+Sou um desenvolvedor e uma pessoa determinada em solucionar problemas. Sempre procuro melhorar minhas habilidades com programação e tenho me dedicado a desenvolver minha inteligência emocional. Além de ser desenvolvedor, também sou pai, filho, irmão e marido.
 
-## Pai, filho, irmão, marido e desenvolvedor (e muitas outras coisa nas horas vagas)
-
-`Determinação`. Essa pode ser uma das palavras que me definem, disposto a solucionar problemas e sempre em busca da melhora. Estou sempre disposto a ajudar as outras pessoas. Tenho focado em fazer uma auto analise de mim(muito vezes falhando nessa tarefa), tenho focado em inteligencia emocional e sempre em busca de melhorar minhas habilidades com programação. 
-
-- Iniciei minha jornada como consultor em uma plataforma de cursos para programadores, tirava e respondia duvidas dos alunos, relacionado a tecnologias que eles estavam estudando.
-- Conseguir meu primeiro emprego como desenvolvedor back-end na Chat2desk Brasil, plataforma omnichanel de multiatendimento.
-- Atualmente trabalho como desenvolvedor back-end na Saúde iD, uma plataforma marketplace que oferece consultas, exames e procedimentos relacionados a saúde. 
+# Experiência profissional
+Atuei como consultor em uma plataforma de cursos para programadores, onde respondia dúvidas dos alunos relacionadas às tecnologias que eles estavam estudando.
+Meu primeiro emprego como desenvolvedor back-end foi na Chat2desk Brasil, plataforma omnichanel de multiatendimento.
+Atualmente, trabalho como desenvolvedor back-end na Saúde iD, uma plataforma marketplace que oferece consultas, exames e procedimentos relacionados à saúde.
 
 ### Connect with me:
 <a href="https://linkedin.com/in/matheus-santos-moreira">
@@ -18,19 +16,6 @@
 <a href="mailto:matheussm301@gmail.com">
 <img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheus-santos-moreira&show_icons=true" alt="matheus-santos-moreira" /></p>
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages </summary>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-santos-moreira&layout=compact&hide=html" alt="matheus-santos-moreira" /></p>
-
-</details>
 
 
 <details>

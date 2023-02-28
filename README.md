@@ -7,7 +7,7 @@ Meu primeiro emprego como desenvolvedor back-end foi na Chat2desk Brasil, plataf
 Atualmente, trabalho como desenvolvedor back-end na Saúde iD, uma plataforma marketplace que oferece consultas, exames e procedimentos relacionados à saúde.
 
 ### Connect with me:
-<a href="https://linkedin.com/in/matheus-santos-moreira">
+<a href="https://www.linkedin.com/in/theusmoreira">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white ">
 </a>
 <a href="https://www.instagram.com/matheus.s.moreira/">

@@ -30,9 +30,7 @@ Atualmente, trabalho como desenvolvedor back-end na Saúde iD, uma plataforma ma
 <!--START_SECTION:waka-->
 
 ```txt
-Python   8 mins          ████████████████▓░░░░░░░░   66.27 %
-Text     4 mins          ████████▒░░░░░░░░░░░░░░░░   33.00 %
-Bash     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

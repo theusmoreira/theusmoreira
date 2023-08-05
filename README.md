@@ -30,11 +30,11 @@ Atualmente, trabalho como desenvolvedor back-end na Saúde iD, uma plataforma ma
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   21 hrs 15 mins  ██████████████████████░░░   87.80 %
-Bash         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-JSON         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Python       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-JavaScript   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+TypeScript   17 hrs          █████████████████████▒░░░   84.85 %
+Bash         1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+JavaScript   29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Python       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->

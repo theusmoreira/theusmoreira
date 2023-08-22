@@ -28,4 +28,15 @@ Atualmente, trabalho como desenvolvedor back-end na Saúde iD, uma plataforma ma
 <h3>my weekly development breakdown</h3>
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 2,116 hrs 32 mins
+
+TypeScript                 1,131 hrs 17 mins█████████████░░░░░░░░░░░░   52.06 %
+JavaScript                 546 hrs 30 mins ██████▒░░░░░░░░░░░░░░░░░░   25.15 %
+JSON                       117 hrs 19 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+EJS                        88 hrs 16 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+sh                         56 hrs 54 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+```
+
 <!--END_SECTION:waka-->

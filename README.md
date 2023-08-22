@@ -25,7 +25,7 @@ Atualmente, trabalho como desenvolvedor back-end na Saúde iD, uma plataforma ma
  </p>
 </details>
 
-<h3>my weekly development breakdown</h3>
+<h3>Tempo de desenvolvimento dos ultimos 6 meses</h3>
 
 <!--START_SECTION:waka-->
 

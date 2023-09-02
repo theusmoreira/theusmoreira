@@ -30,20 +30,20 @@ Atualmente, trabalho como desenvolvedor back-end na Saúde iD, uma plataforma ma
 <!--START_SECTION:waka-->
 
 ```rust
-From: 31 August 2022 - To: 31 August 2023
+From: 01 September 2022 - To: 01 September 2023
 
-Total Time: 529 hrs 51 mins
+Total Time: 531 hrs 11 mins
 
-TypeScript     388 hrs 50 mins >>>>>>>>>>>>>>>>>--------   68.44 %
-sh             56 hrs 53 mins  >>>----------------------   10.02 %
-Other          38 hrs 16 mins  >>-----------------------   06.74 %
-Bash           16 hrs 23 mins  >------------------------   02.89 %
-JavaScript     15 hrs 2 mins   >------------------------   02.65 %
-YAML           11 hrs 48 mins  >------------------------   02.08 %
-JSON           10 hrs 42 mins  -------------------------   01.89 %
-Markdown       8 hrs 42 mins   -------------------------   01.53 %
+TypeScript     390 hrs 18 mins >>>>>>>>>>>>>>>>>--------   68.44 %
+sh             56 hrs 53 mins  >>-----------------------   09.98 %
+Other          39 hrs 6 mins   >>-----------------------   06.86 %
+Bash           16 hrs 43 mins  >------------------------   02.93 %
+JavaScript     15 hrs 2 mins   >------------------------   02.64 %
+YAML           11 hrs 48 mins  >------------------------   02.07 %
+JSON           10 hrs 44 mins  -------------------------   01.88 %
+Markdown       8 hrs 17 mins   -------------------------   01.45 %
 SQL            7 hrs 28 mins   -------------------------   01.31 %
-Python         4 hrs 58 mins   -------------------------   00.88 %
+Python         4 hrs 43 mins   -------------------------   00.83 %
 ```
 
 <!--END_SECTION:waka-->

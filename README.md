@@ -30,7 +30,7 @@ Atualmente, trabalho como desenvolvedor back-end na Saúde iD, uma plataforma ma
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 January 2023 - To: 29 January 2024
+From: 30 January 2023 - To: 30 January 2024
 
 Total Time: 508 hrs 14 mins
 

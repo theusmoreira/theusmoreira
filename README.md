@@ -3,8 +3,8 @@ Sou um desenvolvedor e uma pessoa determinada em solucionar problemas. Sempre pr
 
 # Experiência profissional
 Atuei como consultor em uma plataforma de cursos para programadores, onde respondia dúvidas dos alunos relacionadas às tecnologias que eles estavam estudando.
-Meu primeiro emprego como desenvolvedor back-end foi na Chat2desk Brasil, plataforma omnichanel de multiatendimento.
-Atualmente, trabalho como desenvolvedor back-end na Saúde iD, uma plataforma marketplace que oferece consultas, exames e procedimentos relacionados à saúde.
+Meu primeiro emprego como desenvolvedor back-end foi na Chat2desk Brasil, plataforma omnichanel de multiatendimento. Trabalhei como desenvolvedor back-end na Saúde iD, uma plataforma marketplace que oferece consultas, exames e procedimentos relacionados à saúde.
+
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/theusmoreira" target="_blank" >

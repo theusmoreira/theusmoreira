@@ -30,7 +30,7 @@ Meu primeiro emprego como desenvolvedor back-end foi na Chat2desk Brasil, plataf
 <!--START_SECTION:waka-->
 
 ```rust
-From: 08 February 2025 - To: 08 February 2026
+From: 09 February 2025 - To: 09 February 2026
 
 Total Time: 602 hrs 39 mins
 

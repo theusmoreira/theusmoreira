@@ -30,17 +30,17 @@ Meu primeiro emprego como desenvolvedor back-end foi na Chat2desk Brasil, plataf
 <!--START_SECTION:waka-->
 
 ```rust
-From: 15 April 2025 - To: 15 April 2026
+From: 16 April 2025 - To: 16 April 2026
 
-Total Time: 546 hrs 18 mins
+Total Time: 548 hrs 9 mins
 
-TypeScript                 429 hrs 57 mins       >>>>>>>>>>>>>>>>>>>------   77.93 %
-Bash                       20 hrs 7 mins         >------------------------   03.65 %
-Markdown                   16 hrs 44 mins        >------------------------   03.03 %
-JSON                       14 hrs 28 mins        >------------------------   02.62 %
+TypeScript                 431 hrs 10 mins       >>>>>>>>>>>>>>>>>>>------   77.89 %
+Bash                       20 hrs 10 mins        >------------------------   03.64 %
+Markdown                   16 hrs 48 mins        >------------------------   03.04 %
+JSON                       14 hrs 42 mins        >------------------------   02.66 %
 JavaScript                 13 hrs 2 mins         >------------------------   02.36 %
-YAML                       11 hrs 23 mins        >------------------------   02.06 %
-Python                     7 hrs 49 mins         -------------------------   01.42 %
+YAML                       11 hrs 34 mins        >------------------------   02.09 %
+Python                     7 hrs 49 mins         -------------------------   01.41 %
 Dart                       6 hrs 43 mins         -------------------------   01.22 %
 CSV                        5 hrs 57 mins         -------------------------   01.08 %
 Other                      5 hrs 25 mins         -------------------------   00.98 %

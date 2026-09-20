@@ -30,20 +30,20 @@ Meu primeiro emprego como desenvolvedor back-end foi na Chat2desk Brasil, plataf
 <!--START_SECTION:waka-->
 
 ```rust
-From: 18 September 2025 - To: 18 September 2026
+From: 19 September 2025 - To: 19 September 2026
 
-Total Time: 545 hrs 57 mins
+Total Time: 551 hrs 41 mins
 
-TypeScript                 400 hrs 11 mins       >>>>>>>>>>>>>>>>>>-------   72.16 %
-Markdown                   37 hrs 34 mins        >>-----------------------   06.77 %
-JSON                       23 hrs 42 mins        >------------------------   04.27 %
-Bash                       20 hrs 54 mins        >------------------------   03.77 %
-YAML                       12 hrs 13 mins        >------------------------   02.20 %
-CSV                        11 hrs 16 mins        >------------------------   02.03 %
-Other                      8 hrs 36 mins         -------------------------   01.55 %
-Python                     8 hrs 11 mins         -------------------------   01.48 %
-JavaScript                 7 hrs 50 mins         -------------------------   01.41 %
-Dart                       6 hrs 43 mins         -------------------------   01.21 %
+TypeScript                 404 hrs 5 mins        >>>>>>>>>>>>>>>>>>-------   72.12 %
+Markdown                   38 hrs 29 mins        >>-----------------------   06.87 %
+JSON                       23 hrs 56 mins        >------------------------   04.27 %
+Bash                       20 hrs 54 mins        >------------------------   03.73 %
+YAML                       12 hrs 2 mins         >------------------------   02.15 %
+CSV                        11 hrs 16 mins        >------------------------   02.01 %
+Other                      8 hrs 36 mins         -------------------------   01.54 %
+Python                     8 hrs 12 mins         -------------------------   01.46 %
+JavaScript                 7 hrs 52 mins         -------------------------   01.41 %
+Dart                       6 hrs 43 mins         -------------------------   01.20 %
 ```
 
 <!--END_SECTION:waka-->
